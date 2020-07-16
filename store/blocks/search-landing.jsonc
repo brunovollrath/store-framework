@@ -12,13 +12,6 @@
         }
     },
     "search-result-layout.customQuery": {
-        "blocks": [
-            "search-result-layout.desktop#landing",
-            "search-result-layout.mobile",
-            "search-not-found-layout"
-        ]
-    },
-    "search-result-layout.desktop#landing": {
         "props": {
             "orderByField": "OrderByReleaseDateDESC",
             "hideUnavailableItems": true,
