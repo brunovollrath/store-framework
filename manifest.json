@@ -1,6 +1,6 @@
 {
   "vendor": "vtex",
-  "name": "qachoppbrahmaexpress",
+  "name": "theme",
   "version": "0.0.1",
   "builders": {
     "styles": "2.x",
